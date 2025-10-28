@@ -8,4 +8,4 @@ Passionate about clean UI/UX, usability, and performance
 Rebuilding my skills to transition into modern front-end roles
 
 [LinkedIn](https://www.linkedin.com/in/russell-calianno/)  
-[GitHub Projects](https://github.com/YOUR_USERNAME?tab=repositories)
+[GitHub Projects](https://github.com/allman154)
